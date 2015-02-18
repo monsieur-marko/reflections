@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It adds the git metadata to the system folder. You need to commit the tracked files, so that git will track future updates to these files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a collection of files in limbo. It offers users the ability to review changes before they are made.
