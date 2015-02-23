@@ -5,3 +5,9 @@ I would use a remote repository when I want to share code with collaborators, sh
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If changes were made to the branch in the remote repository that you're not aware of, automatically pulling may create problems.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: cloned and linked repository containing all files and commits as of the time forked. GitHub feature.
+Clones: copy of a repository containing all files and commits as of the time forked. Git feature.
+Branches: Local version of the repository developed in parallel with another branch. Git feature.
